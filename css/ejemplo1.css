@@ -1,0 +1,29 @@
+
+.cajaGrande{
+    height: 400px;
+}
+
+.caja{
+    height: 50px;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.rojo{
+    background-color: red;
+    height: 200px;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.fila-contenedores{
+    height: 400px;
+}

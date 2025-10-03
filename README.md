@@ -1,2 +1,2 @@
-# Exposicion_2_Silvia_Hern-ndez
+# Exposicion_2_Bootstrap
 Exposicion 2 de Proyecto Integrador 1
